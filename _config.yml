@@ -1,6 +1,6 @@
 title: サイトのタイトル。
 description: サイトの説明文。
-baseurl: "/blogtest"
+baseurl: "/blogtest3"
 url: "https://meimei092.github.io"
 markdown: kramdown
 plugins:
